@@ -3,9 +3,6 @@ if SHIELD_ALLIUM_ART
 config NICE_VIEW_WIDGET_STATUS
     default n
 
-config ZMK_DISPLAY_STATUS_SCREEN_CUSTOM
-    default y
-
 config LV_USE_IMG
     default y
 
